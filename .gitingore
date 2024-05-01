@@ -1,0 +1,8 @@
+*
+
+!README.md
+!requirements.txt
+!data_collection_dir/
+!data_collection_dir/data_collection.py
+!setup.py
+!.gitignore
